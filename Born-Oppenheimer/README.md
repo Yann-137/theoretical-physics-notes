@@ -1,4 +1,4 @@
-# An Introduction to the Born-Oppenheimer Approximation for Physics Students
+# An Introduction to the Born-Oppenheimer Approximation
 
 - **Compiled PDF:** [Born-Oppenheimer.pdf](./Born-Oppenheimer.pdf) *(Click to view directly in your browser)*
 - **LaTeX Source:** [Born-Oppenheimer.tex](./Born-Oppenheimer.pdf)
