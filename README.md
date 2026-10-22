@@ -1,4 +1,4 @@
-# Theoretical Physics Notes & Pedagogical Monographs
+# Theoretical Physics Notes
 
 A collection of rigorous, technical, and self-contained pedagogical manuscripts on various topics in theoretical physics.
 
